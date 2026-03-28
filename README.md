@@ -1,7 +1,3 @@
-Here is the adjusted `README.md` formatted specifically for a Google Colab environment. I updated the setup instructions to match how your code handles file paths and execution in Colab.
-
-***
-
 # Fake News Detection Pipeline
 
 An end-to-end machine learning project developed in Google Colab that leverages both unsupervised and supervised algorithms to classify news articles as real or fake. 
